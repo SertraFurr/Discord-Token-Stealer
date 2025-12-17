@@ -14,6 +14,7 @@ Just a simple memory scanner that looks for the discord user token regex `[\w-]{
 
 4. Random:
 - To have a smaller exe, change the build param to something like ```"%ZIG_EXE%" build-exe %TARGET_FILE% -O ReleaseSmall -fstrip -fsingle-threaded -target x86_64-windows```
+
 That's it. I don't know why would you use that! but it's cool isn't it (no)
 
 No need to star this :)
